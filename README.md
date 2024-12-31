@@ -9,9 +9,9 @@ MyTube is a front-end project designed to replicate the look and feel of YouTube
 - **Responsive Design**: Adjusts seamlessly for different screen sizes.
 
 ## Technologies Used
-- **HTML5**: For the structure and layout of the pages.
-- **CSS3**: For styling and responsive design.
-- - **Javascript**: For functionality.
+- HTML5: For the structure and layout of the pages.
+- CSS3: For styling and responsive design.
+- Javascript: For functionality.
 
 ## Folder Structure
 ```
